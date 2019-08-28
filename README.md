@@ -8,4 +8,7 @@ Web Apps P1
 ## About
 
 ## Recommended Tools
-s
+
+## Contributors
+
+My name is Kevin Hart and I am a Computer Science major.
