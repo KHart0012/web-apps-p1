@@ -14,6 +14,14 @@ Some tools that I would recommend would be a browser that you enjoy, I personall
   - Visual Studio Code: https://code.visualstudio.com/download
   - GitHub: https://github.com
 
-## Contributors
+## Recommended Resources
+As I am not a web developer I have not amassed a list of resources over my years in computer science. I have looked around at some good resources that might be useful to someone who is looking to get into the field. These include:
 
+  - https://github.com/kamranahmedse/developer-roadmap
+  - https://stackoverflow.com/
+  - https://code.tutsplus.com/
+
+Stack Overflow is not specifically for web development, but it can help you answer many of your questions that you might have about it. 
+
+## Contributors
 My name is Kevin Hart and I am a Computer Science major.
