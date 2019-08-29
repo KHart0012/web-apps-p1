@@ -24,4 +24,5 @@ As I am not a web developer I have not amassed a list of resources over my years
 Stack Overflow is not specifically for web development, but it can help you answer many of your questions that you might have about it. 
 
 ## Contributors
-My name is Kevin Hart and I am a Computer Science major.
+My name is Kevin Hart and I am a Computer Science major. The original image can be found on the internet, but I have editted words out of it and replaced it with my own stars. I like this image because I am really interested in space stuff.
+![](interstellar_blackhole_minimalist.PNG)
